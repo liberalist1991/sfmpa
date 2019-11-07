@@ -1,0 +1,11 @@
+node_modules
+dist
+src/lib
+src/assets
+src/css/global
+src/page/*
+src/component/cityselect
+src/module/city-index
+src/module/home-index
+src/module/common
+src/module/ad

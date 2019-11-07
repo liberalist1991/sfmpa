@@ -1,0 +1,6 @@
+/node_modules
+/dist
+/mock/vm/*
+.DS_Store
+.npm-debug.log
+.idea
