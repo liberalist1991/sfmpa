@@ -59,7 +59,7 @@
     "vm-index-loader": "^0.0.1",
     "vtl-loader": "^0.2.1",
     "webpack": "^1.15.0",
-    "webpack-bundle-analyzer": "^2.9.1",
+    "webpack-bundle-analyzer": "^3.6.0",
     "webpack-dev-server": "^1.16.5",
     "webpack-merge": "^4.1.1"
   }
